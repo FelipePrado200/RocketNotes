@@ -1,8 +1,42 @@
-# React + Vite
+# 🚀 Rocketnotes  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Rocketnotes** é uma aplicação de notas criada para ajudar você a organizar suas ideias e informações de maneira eficiente. Com funcionalidades práticas como criação, pesquisa e exclusão de notas, a plataforma é ideal para simplificar seu dia a dia.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas  
+
+### **Frontend:**  
+- React  
+- React Router  
+- Styled-components  
+
+### **Backend:**  
+- Node.js  
+- Express.js  
+
+### **Banco de Dados:**  
+- SQLite  
+
+### **Outras Ferramentas:**  
+- Axios  
+- react-icons  
+
+---
+
+## ✨ Funcionalidades  
+
+- **📝 Criação de Notas:** Crie notas personalizadas com títulos e tags.  
+- **🔍 Pesquisa de Notas:** Encontre notas rapidamente por título ou tags.  
+- **🏷️ Filtro por Tags:** Visualize notas filtradas por categorias específicas.  
+- **❌ Exclusão de Notas:** Remova notas indesejadas com facilidade.  
+
+---
+
+## 🚀 Como Executar o Projeto  
+
+### Backend  
+
+1. **Clone o repositório:**  
+   ```bash
+   git clone https://github.com/FelipePrado200/RocketNotes.git

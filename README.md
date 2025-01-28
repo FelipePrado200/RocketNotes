@@ -40,4 +40,4 @@
 1. **Clone o repositório:**  
    ```bash
    git clone https://github.com/FelipePrado200/RocketNotes.git
-   link do backend : https://github.com/FelipePrado200/RocketNotes-Backend/tree/main
+   backend : https://github.com/FelipePrado200/RocketNotes-Backend/tree/main
